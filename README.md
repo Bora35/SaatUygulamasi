@@ -1,4 +1,4 @@
 # saatuygulamasi
 
-Flutter Uygulaması (Üniversite Projesi)
+Flutter Uygulaması
 
